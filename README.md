@@ -90,4 +90,60 @@
 
 - accept vt 接受，领受，认可，同意
 
-- receive
+- receive v 收到，接到，遭受，受到，接待
+
+- conceive v 设想，构思，想象，以为；怀胎，怀有
+
+- deceive v 欺骗，蒙蔽
+
+- perceive v 察觉，感知，理解，领悟
+
+- perfect
+
+- percent
+
+- grasp v 掌握
+
+- seed n 种子，精子
+
+- pregnancy n 怀孕
+
+- participate v 分享；分担
+
+- ceive-词根:拿
+
+- cept-词根:拿（加强）
+
+- cip-词根:拿（瘦）
+
+- concept n 概念; 观念; 想法
+
+- except prep 除……之外 v 除外；反对
+
+- exception n 例外，除外，反对，异议
+
+- exceptional a 例外的，异常的
+
+- reception n 接收
+
+- reception n 接收，接受，接待，招待会
+
+- recipient a 接受的，感受性强的 n 接受者
+
+- recipe n 烹饪法，食谱，诀窍，方法
+
+- reciprocal a 相互的，往复的，互利的
+
+- susceptible a 易受影响的，易受感动的，易受感染的
+
+- anticipate vt 预料，期望，预先考虑，抢先
+
+- discipline n 纪律，学科
+
+- disciple n 信徒，门徒，弟子
+
+- municipal a 市立的，地方性的
+
+- participant n 参加者，参与者 a 参与的
+
+- participate v 参与，参加，分享，分担，含有，带有
