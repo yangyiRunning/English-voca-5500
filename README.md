@@ -147,3 +147,92 @@
 - participant n 参加者，参与者 a 参与的
 
 - participate v 参与，参加，分享，分担，含有，带有
+
+---
+
+- expand v 使膨胀，使扩张
+
+- expansion n
+
+- collide v 碰撞，冲突，互撞，抵触
+
+- collision n
+
+- exclude v 拒绝，把……排除在外，排斥
+
+- exclusion n
+
+- cess-词根: 走
+
+- ced-词根: 走(ceed)
+
+- successful a 圆满的，顺利的，成功的
+
+- succession n 连续，系列，继任，继承
+
+- successive a 接连的，连续的
+
+- successor n 接替的人或事物，继任者
+
+- victory
+
+- access n 进入，接入，接近，到达，享用权，入口 vi 存取
+
+- accessory n 附件，附属品
+
+- need
+
+- necessary a 必须的，必要的，必然的 n 必需品
+
+- necessity n 必要性，需要，必然性，必需品
+
+- necessiate v 使成为必要，需要
+
+- predecessor n 前辈，前任
+
+- princess n 公主，王妃
+
+- prince n 王子
+
+- actor n 演员
+
+- actress n 女演员
+
+- process n 工序，制作法，工艺 v 加工
+
+- procession n 队伍，行列
+
+- concession n 让步，妥协，特权
+
+- excess a 过量的，额外的 n 过量 过剩，超额，无节制
+
+- excessive a 过多的，过分的，额外的
+
+- exceed v 超过，胜过，越过
+
+- exceedingly a 极端地，非常
+
+- excel vi 胜过其他，擅长 vt 胜过，优于
+
+- proceed v 进行，继续下去，发生
+
+- proceeding n 行动，进行，会议录
+
+- succeed
+
+- concede vt 承认，容许，认输，退让
+
+- precede v 领先于，在……之前，优于，先于
+
+- precedent n 先例
+
+- preceding a 在前的，在先的
+
+- procedure n 程序，手续，步骤
+
+- recede v 退回，后腿，收回（物），撤回（人），跌落，缩减（事），贬值（钱）
+
+- pro-前缀: 往前（一人，动态）
+
+- pre-前缀: 在前（两人之间，静态）
+
