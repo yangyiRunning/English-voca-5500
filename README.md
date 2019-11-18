@@ -255,3 +255,5 @@
 - coincidence n 巧合，同时发生，共同点
 
 - casualty n 事故，伤亡人员，受害人
+
+- 
