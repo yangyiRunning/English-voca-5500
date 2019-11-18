@@ -236,3 +236,22 @@
 
 - pre-前缀: 在前（两人之间，静态）
 
+- accident n 意外遭遇，事故，意外（因素）
+
+- casual a 偶然的，不经意的
+
+- chance n 机会，可能性，偶然性，运气 v 碰巧，偶然发生
+
+- accidental a
+
+- incident n 事件，事变
+
+- incidence n 影响程度，影响范围，发生概率（事件的后续）
+
+- incidentally ad 附带的，顺便提及
+
+- coincide vi 同时发生，同样发生，巧合，一致，相符，撞衫
+
+- coincidence n 巧合，同时发生，共同点
+
+- casualty n 事故，伤亡人员，受害人
