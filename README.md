@@ -50,7 +50,7 @@
 
 - abuse vt 滥用，辱骂，虐待，诋毁 n 滥用，恶习，弊端
 
-- use n 使用，应用，用途，用法，益处 vt 用，消耗
+- **use n 使用，应用，用途，用法，益处 vt 用，消耗**
 
 - used a 用旧了的，旧的；习惯于…… 过去惯/经常
 
@@ -264,7 +264,7 @@
 
 - claim v 要求，声称，索赔 n 要求，断言，索赔，权利 （都需要你叫才行）
 
-- **ac-前缀: 原有意义引申化**
+- **ac-前缀: 原有意义引申化、动作化**
 
 - acclaim v 向……欢呼，公认 n 欢呼，喝彩，称赞
 
@@ -297,3 +297,71 @@
 - accompany v 陪伴，陪同，伴随，和……一起发生，伴奏
 
 - companion n 同伴，共事者，伴侣
+
+- **complete a 完整的，完全的，圆满的 v 完成，结束，使完满**
+
+- completement n 补足物，船上的定员，补语 vt 补充，补足
+
+- supplement n 补遗，增刊，附录 v 增刊，补充
+
+- supply v 补足，供给，供应
+
+- completely ad 完整地，完全地
+
+- **ish-后缀: 动词后缀**
+
+- accomplish v 完成，实现
+
+- ample a 充足的，富裕的，宽敞的，充分的
+
+- amplifier n 放大器，扩大器
+
+- amplify vt 放大，增强，详述
+
+- example n 例子，实例，模范，榜样
+
+- sample n 
+
+- **cord-词根: 心**
+
+- core n 果核，中心，核心
+
+- accord vt 给予（欢迎、歌颂） vi/n 符合，一致
+
+- accordance n 一致，和谐，符合
+
+- according to prep 据……所说，照……所说
+
+- accordingly ad 相应的，照着办
+
+- cordial a 热忱的，诚恳的
+
+- score n 得分，分数，二十 v 得分
+
+- cord n 绳，索
+
+- record v
+
+- recorder n
+
+- **cle-词根: 核**
+
+- nuclear a 核心的，中心的，原子核的，核能的
+
+- nucleus n 核，核心，原子核
+
+- nut n 坚果，螺母，螺帽
+
+- fruit n 水果
+
+- fruitful a 多产的，果实累累的
+
+- **petr-词根: 石**
+
+- **eum-后缀: 化学名词后缀**
+
+- petrol n 汽油（英）
+
+- petroleum n 石油
+
+- gasoline n 汽油（美）
