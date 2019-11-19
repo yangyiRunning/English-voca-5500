@@ -4,15 +4,17 @@
 
 - soup n 汤
 
-- sorb vt 吸附，吸收
+- **sorb vt 吸附，吸收**
 
-- sip v 小口地喝，抿，呷 n 一小口
+- **sip v 小口地喝，抿，呷 n 一小口**
 
 - dissipate vt 驱散，浪费，消散
 
 - dragon n 龙
 
 - drag v 拖拽
+
+- **tract-词根: 拽**
 
 - extract v 拨出，抽出，摘录
 
@@ -66,7 +68,7 @@
 
 - academy n 高等专科院校，学术社团，协会，研究院
 
-- demos n 民众，古希腊城邦平民
+- **demos n 民众，古希腊城邦平民**
 
 - democracy n 民主
 
@@ -110,11 +112,11 @@
 
 - participate v 分享；分担
 
-- ceive-词根:拿
+- **ceive-词根:拿**
 
-- cept-词根:拿（加强）
+- **cept-词根:拿（加强）**
 
-- cip-词根:拿（瘦）
+- **cip-词根:拿（瘦）**
 
 - concept n 概念; 观念; 想法
 
@@ -162,9 +164,9 @@
 
 - exclusion n
 
-- cess-词根: 走
+- **cess-词根: 走**
 
-- ced-词根: 走(ceed)
+- **ced-词根: 走(ceed)**
 
 - successful a 圆满的，顺利的，成功的
 
@@ -232,9 +234,9 @@
 
 - recede v 退回，后腿，收回（物），撤回（人），跌落，缩减（事），贬值（钱）
 
-- pro-前缀: 往前（一人，动态）
+- **pro-前缀: 往前（一人，动态）**
 
-- pre-前缀: 在前（两人之间，静态）
+- **pre-前缀: 在前（两人之间，静态）**
 
 - accident n 意外遭遇，事故，意外（因素）
 
@@ -258,3 +260,40 @@
 
 ---
 
+- **claim-词根: 叫**
+
+- claim v 要求，声称，索赔 n 要求，断言，索赔，权利 （都需要你叫才行）
+
+- **ac-前缀: 原有意义引申化**
+
+- acclaim v 向……欢呼，公认 n 欢呼，喝彩，称赞
+
+- shriek v 尖叫
+
+- scream v 尖叫，喊叫着说出，呼啸 n 尖叫声
+
+- pray v 祈祷，请求，恳求
+
+- plea v 请求
+
+- exclaim v 呼喊，惊叫，大声说
+
+- proclaim v 宣告，声明
+
+- reclaim v 要求归还，收回，开垦
+
+- clamor n 喧闹，叫嚷，大声的要求 v 喧嚷，大声的要求
+
+- **commod-词根: 方便**
+
+- accommodate vt 向……提供膳宿，对……予以照顾性考虑，与人方便，适应
+
+- accommodation n 住宿，留宿，膳宿
+
+- commodity n 日用品，商品，农产品，矿产品，有用之物
+
+- company n 公司，陪伴，一群，一队，一伙，连，连队 **（集合性质的概念）**
+
+- accompany v 陪伴，陪同，伴随，和……一起发生，伴奏
+
+- companion n 同伴，共事者，伴侣
