@@ -388,4 +388,49 @@
 
 - **contra-前缀: 相对**
 
-- 
+- diction n 措辞，用语，言语
+
+- dictionary n 字典
+
+- contradict v 反驳
+
+- contradiction n 矛盾
+
+- contrary a (to) 相反的，矛盾的
+
+- contrast n/v 对比，对照 
+
+- contract n 契约
+
+- action v 行动，活动，功能，情节，战斗
+
+- **ckon-词根: 计算**
+
+- reckon v 计算，总计
+
+- reckless a 不计后果的，不注意的
+
+- **com-前缀: 共同**
+
+- common a 普通的，公共的，共同的
+
+- accumulate vt 堆积，积累，积聚 vi 积累，聚积
+
+- communicate v 传达，传送，交流，通讯，通话
+
+- communication n
+
+- commonplace a 普通的，平庸的 n 寻常的事物，平庸的事物
+
+- commonwealth n 共和国，共同体，联邦
+
+- communism n 共产主义
+
+- community n 同一地区的居民，社区，社会
+
+- commute v 乘公交车上下班，乘车（船等）往返于两地
+
+- mutual a 相互的，彼此的，共同的
+
+---
+
