@@ -365,3 +365,27 @@
 - petroleum n 石油
 
 - gasoline n 汽油（美）
+
+---
+
+- count vt 计算 vi 计数，有价值 n 计数，计算，伯爵
+
+- discount v 打折 n 折扣
+
+- counter n 柜台，结账处，计算器 a/ad 相反的，相反地 v 反对，反击
+
+- encounter n/v 遭遇，遇到
+
+- county n 郡县
+
+- country n 国家，农村，乡村，乡下
+
+- countryside n 乡下，农村
+
+- counterpart n 对应的人和物
+
+- account n 去计算出来的账目，账户 叙述，说明 vt 说明
+
+- **contra-前缀: 相对**
+
+- 
