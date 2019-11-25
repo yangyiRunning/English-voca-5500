@@ -476,7 +476,7 @@
 
 - **ise-动词后缀**
 
-— crucial a 至关重要的，决定性的
+- crucial a 至关重要的，决定性的
 
 - accustomed a 惯常的，习惯的，适应的 vt 使习惯于
 
