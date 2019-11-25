@@ -368,6 +368,7 @@
 
 ---
 
+<<<<<<< Updated upstream
 - count vt 计算 vi 计数，有价值 n 计数，计算，伯爵
 
 - discount v 打折 n 折扣
@@ -434,3 +435,106 @@
 
 ---
 
+=======
+- **ac-前缀: 一再地**
+
+- **cur-词根: 用心**
+
+- accurate a 精确的
+
+- accuracy n 精确
+
+- curious a 好奇的，求知的，古怪的
+
+- curiousity n 好奇心，古董，古玩
+
+- cure v 治疗，治愈，医治，矫正 n 治愈，痊愈
+
+- **cure-词根: 关心**
+
+- secure a （from,against）安全的，放心的 v 保护，使……安全
+
+- rescue v/n 营救，援救（回到安全状态）
+
+- courage n 勇气，胆量
+
+- discourage v 使泄气
+
+- encourage v 鼓励
+
+- care v （对人）关心，（对事）用心
+
+- accuse n/v 控告，指责
+
+- across prep 横过，穿过，越过，在的对面 ad 横过，穿过
+
+- cross n 十字架，苦难 a 交叉的，穿过的
+
+- excuse v 原谅，宽恕，免除 n 借口，辩解
+
+- curse n 诅咒，咒语，祸因 v 诅咒，咒骂
+
+- cruise v 巡航
+
+- **ise-动词后缀**
+
+— crucial a 至关重要的，决定性的
+
+- accustomed a 惯常的，习惯的，适应的 vt 使习惯于
+
+- custom n 习惯，风俗，惯例； 海关
+
+- customer n 主顾，顾客
+
+- customary a 习惯于，惯例的
+
+- used a 用旧了的，旧的，习惯于……，过去常常
+
+- use v
+
+- achd vi 痛，哀怜 n 疼痛，酸痛
+
+- agony n (精神或者肉体)极大痛苦，创伤
+
+- headache n 头痛
+
+- **chief-词根: 头**
+
+- achieve vt 实现，完成，到达，得到 vi 达到  （到头了）
+
+- chief a 首要的 n 首领，领袖
+
+- handkerchief n 手帕
+
+- kerchief n 方巾
+
+- mischief  n 恶作剧，胡闹，损害，伤害，危害，灾祸
+
+- **cap-词根: 头**
+
+- cap n 便帽，军帽，盖，罩，套 v 覆盖于……顶端
+
+- cape n 海角，岬，披肩，短披风
+
+- capital n 首都，大写字母，资本 a 主要的
+
+- capitalism n 资本主义
+
+- capsule n 胶囊，太空舱
+
+- sole a 唯一的
+
+- captain n 首领，队长，船长，上尉 v 做……首领
+
+- **cab-词根: 头**
+
+- cab n 驾驶室，出租车，出粗马车 vi 乘出租马车
+
+- cabbage n 洋白菜，卷心菜
+
+- vegetable n 蔬菜，植物 a 植物的，蔬菜的
+
+- vegetarian n 素食主义者
+
+- vegetation n 植物，草木
+>>>>>>> Stashed changes
