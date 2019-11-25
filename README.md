@@ -368,7 +368,6 @@
 
 ---
 
-<<<<<<< Updated upstream
 - count vt 计算 vi 计数，有价值 n 计数，计算，伯爵
 
 - discount v 打折 n 折扣
@@ -435,7 +434,6 @@
 
 ---
 
-=======
 - **ac-前缀: 一再地**
 
 - **cur-词根: 用心**
@@ -537,4 +535,5 @@
 - vegetarian n 素食主义者
 
 - vegetation n 植物，草木
->>>>>>> Stashed changes
+
+---
