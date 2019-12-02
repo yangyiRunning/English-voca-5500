@@ -537,3 +537,107 @@
 - vegetation n 植物，草木
 
 ---
+
+- **le-后缀: 小的**
+
+- **ang-词根: 尖角**
+
+- angle n 角，角度 v 钓鱼，谋取
+
+- **rect-词根: 直，正**
+
+- rectangle n 矩形，长方形
+
+- correct a 正确的，恰当的，端正的
+
+- rectify v 纠正，整顿，蒸馏
+
+- direct a/ad 径直的 v 管理，指导 (at,to)指向
+
+- direction n 方向，方位，指令，说明
+
+- directly ab 直接地，径直地，马上，立即
+
+- director n 指导者，主任，导演
+
+- directory n 认命地址录，号码簿
+
+- triangle n 三角形
+
+- **ac-词根: 尖锐**
+
+- ace n A(扑克)
+
+- **id-后缀: 化学形容词后缀**
+
+- acid n 酸，酸性物质 a 酸的，酸味的，尖刻的
+
+- acute a 剧烈的，敏锐的，成锐角的，尖的，高音的（各种尖）
+
+- acknowledge vt 知道，承认，接受，告知（信件），收到，答谢
+
+- knowledge n 知识，学识，知道，了解
+
+- well-known a
+
+- **not-词根: 知道**
+
+- denote vt 表示，意味着
+
+- notable n 值得注意的，显著的，著名的
+
+- note n 笔记，按语，注释，钞票，纸币 v 记下，摘下
+
+- notebook n
+
+- notice n 通知，通告，布告，注意，认识 v 注意
+
+- noticeable a 显而易见的，值得注意的，重要的
+
+- notify v 通知，告知，报告
+
+- notion n 概念，想法，意念，看法，观点
+
+- notorious a 臭名昭著的，声名狼藉的  反: famous
+
+- **nounce-词根: 知道**
+
+- announce v 正式宣布，发表，通告，广播（电台节目）
+
+- denounce vt 公开指责，公然抨击，谴责
+
+- construct v 建造
+
+- destruct v 毁坏
+
+- ascend v 攀登
+
+- desend v 下降
+
+- pronounce v 发……的音，宣布，宣判
+
+- pronunciation n 发音，发音方法
+
+- **gnor-词根: 知道**
+
+- ignorance n 无知，愚昧，不知道
+
+- ignorant a 无知的，愚昧的，不知道的
+
+- ignore v 不理，不顾，忽视
+
+- **cogn-词根: 认**
+
+- cognitive a 认知的，认识能力的
+
+- cognition n 认识，认知
+
+- recognize v 认出，承认，公认，赏识
+
+- recognition n 认出，辨认，承认
+
+- **quaint-词根: 认识**
+
+- acquaint vt 使认识
+
+- acquaintance n 认识，相识，了解，相识的人，熟人
