@@ -678,7 +678,7 @@
 
 - metre n 米
 
-- massacre vt 集体屠杀 n c 残杀
+- massacre vt 集体屠杀 n 残杀
 
 - mass n 大量，众多，团，块，（pl）群众
 
@@ -706,4 +706,142 @@
 
 - **per-前缀: 每一个**
 
+---
+
+- rat n 鼠
+
+- mouse n 老鼠
+
+- mice n 老鼠
+
+- ratton n 老鼠(英国方言)
+
+- rotten a 腐烂的，腐朽的
+
+- rot v 使腐烂，腐败，腐朽
+
+- corrode v 使腐烂，腐败，腐朽
+
+- erode v
+
+- erosion n 腐蚀，磨损，削弱
+
+- bat n 蝙蝠，飞鼠
+
+- **micro-前缀: 小**
+
+- **macro-前缀: 大**
+
+- **acro-前缀: 高**
+
 - acrobat n 特技演员，杂技演员
+
+- microphone n
+
+- microscope n
+
+- act v
+
+- action n
+
+- react v 反应，起作用
+
+- active a
+
+- activity n
+
+- activate vt 启动，激活，驱动
+
+- actor n 男演员，演员，行动者
+
+- actress n 女演员
+
+- actual a 实际的，现实的，真实的
+
+- ideal a 理想的
+
+- **inter-前缀: 相互的**
+
+- interact v 互相作用
+
+- transport vt 传送，运输
+
+- transaction n 办理，处理，交易，事务; （pl）会报，学报
+
+- exact a 确切的，正确的，精确的
+
+- agency n 代理，代办
+
+- **ag-词根: 行动**
+
+- agent n 代理人，代理商
+
+- agenda n 议事日程，记事册
+
+- agitate v 摇动（液体），使焦虑不安，困扰，搅动，摇动；煽动，鼓动
+
+- colleague n 同事，同僚
+
+- collect v
+
+- league n 同盟，联盟，联合会
+
+- exaggerate v 夸大，夸张
+
+- **ag-词根: 做**
+
+- **ad-前缀: 加强语气**
+
+- apt a 恰当的，适合的，适当的，易于……的
+
+- adapt vt 使适应，使适合；改编，改写
+
+- appropriate a 适当的，恰当的 vt 拨出作特殊用途
+
+- proper a 恰当的，合乎体统的，固有的，有礼貌的，特有的
+
+- property n 财产，个性  特性
+
+- addict vt 使沉溺，使上瘾 n 沉溺于不良嗜好的人
+
+- addition n
+
+- additional a
+
+- odd a 奇数的，带零头的，单只的
+
+- odds n 不平等，差异，机会
+
+- aid n 援助，救护，助手，辅助物 vi 援助，救援
+
+- director n 导演，指导者，主任
+
+- direct a/ad 径直的 v 管理，指导
+
+- direction n 方向，方位，指令，说明
+
+- directly ad 直接的，径直的，马上，立即
+
+- directory n 人名地址录，号码本
+
+- address n 住址，致词，演讲 v 向……致词，在信封上……
+
+- **rect-词根: 直的**
+
+- erect v 树立，建立，使树立
+
+- rectangle n
+
+- rectify v 纠正，整顿
+
+- **rig-词根: 直的**
+
+- rigid a 僵直的，刻板的
+
+- rigorous a 严厉的，严格的，严酷的
+
+- upright a 垂直的，直立的，正直的
+
+- copyright n/a 版权
+
+---
