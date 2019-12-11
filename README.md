@@ -641,3 +641,69 @@
 - acquaint vt 使认识
 
 - acquaintance n 认识，相识，了解，相识的人，熟人
+
+---
+
+- question n v
+
+- quest n 寻求
+
+- **quire-词根: 寻求**
+
+- acquire v 获得，学到（知识等）；养成（习惯）
+
+- inquire v 询问，打听，调查，查问
+
+- require v 需要，要求，命令
+
+- requirement n 需要，需求
+
+- **ary-后缀: 集合性名词后缀**
+
+- questionnaire n 调查表，问卷
+
+- millionnaire n 百万富豪
+
+- conquer v 征服，战胜，占领，克服
+
+- conquest n 征服，征服地，掠夺物
+
+- acquisition n 获得，获得物
+
+- exquisite a 精益求精的，精致的，精巧的
+
+- quiz n 小型考试，测验，问答比赛
+
+- acre n 英亩，田地，地产
+
+- metre n 米
+
+- massacre vt 集体屠杀 n c 残杀
+
+- mass n 大量，众多，团，块，（pl）群众
+
+- massive a 大而重的，厚实的，粗大的
+
+- main a
+
+- major a 主要的，主修的
+
+- **magn-词根: 大**
+
+- **agri-前缀: 土地**
+
+- agriculture n 农业，农艺，农耕
+
+- **aque-词根: 水**
+
+- opaque a 不透明的
+
+- liquid a 液体的
+
+- liquor n 酒，溶液，溶剂
+
+- pilgrim n 在国外旅游者，朝圣者，最初的移民
+
+- **per-前缀: 每一个**
+
+- acrobat n 特技演员，杂技演员
