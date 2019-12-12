@@ -1029,3 +1029,39 @@
 - mayor n 市长
 
 ---
+
+- adolescent n 青少年 a 青春期的，青少年的
+
+- opt vi 选择，抉择
+
+- option n 选择权，选项
+
+- adopt v 选定，手痒，采用
+
+- optional a 可以任选的，随意的，非强制的
+
+- dear a
+
+- bear n 熊，生育
+
+- born v
+
+- adore vt 爱慕 (从下往上的爱)
+
+- **cher-词根: 爱**
+
+- **char-词根: 爱**
+
+- charity n 慈善，博爱，施舍，仁慈
+
+- cheish vt 抱有，怀有，爱护，珍爱
+
+- darling n 心爱的人，亲爱的
+
+- narrow a 狭窄的
+
+- appear v
+
+- apparent a 显然的，外观上的
+
+---
