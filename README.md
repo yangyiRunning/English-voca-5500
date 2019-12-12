@@ -845,3 +845,187 @@
 - copyright n/a 版权
 
 ---
+
+- equal a 相等的，胜任的 n 相等的事务，对等的事务
+
+- adequate a 充足的，足够的，适当的，胜任的
+
+- equality n 同等，平等，相等，等式，等同性
+
+- **equat-词根: 相等**
+
+- equation n 数学等式，方程式，相等，均衡(with）
+
+- equator n 赤道
+
+- equip v (with)装备，配备
+
+- equipment n 设备
+
+- ship n 船舶，舰艇 v 装运，航运
+
+- shipment n 装船，装运，装载的货物，装货量
+
+- equivalent a 等价的 n 等价物
+
+- **eco-前缀: 相等**
+
+- ecology n 生态学，均衡系统
+
+- economic a 经济上的，经济学的
+
+- economical a 节约的 “抠”
+
+- economics n 经济学
+
+- **her-词根: 粘着**
+
+- **hes-词根: 粘着**
+
+- adhere vi (to)粘着，坚持，遵守，依附
+
+- coherent a 一致的，协调的，**黏在一起的**
+
+- cohesive a 粘合性的，**黏在一起的**
+
+- hesitate v 犹豫，踌躇，含糊，支吾
+
+- join v 参加，**加入**，联合，**连接**，和……在一起
+
+- joint n 连接点 a 结合的
+
+- junction n 连接，结合，交叉点
+
+- adjacent a (to) 时间上紧接着，毗邻的(空间上紧接着的)
+
+- adjoin v 连接，毗邻
+
+- conjunction n 接合，连接，联合，连接词
+
+- **le-后缀: 多次，反复，小的**
+
+- jungle n 丛林，生死地带
+
+- **ject-词根: 投、射、扔**
+
+- inject vt 注射，注入
+
+- eject v 喷射，排除，驱逐
+
+- project v 投射，放映 n 方案，工程，项目设计，规划
+
+- reject v 拒绝，抵制，丢弃，排斥
+
+- projector n 放映机，幻灯机，投影机
+
+- **op-前缀: 相对**
+
+- object n 物体，客体，对象，目标
+
+- subject n 主体，主题，学科 v 使隶属 a 隶属的
+
+- objective a 客观的，真实的 n 目标，目的
+
+- objection n （to）反对，异议
+
+- subjective a 主观的，个人的
+
+- jet n 喷气机
+
+- jay n 碎碎叨叨的人，傻瓜
+
+- peny n 美分，便士
+
+- ruby n 红宝石
+
+- adjective n 形容词 a 形容词的
+
+- just ad 正好地，公正地，刚才，刚刚
+
+- adjust vt (弄的正好) 调节，整顿，调整 vi 适应(to) 使调节
+
+- justice n 公正，公平，审判
+
+- justify v 证明……正当
+
+- judge n 法官，裁判，鉴定人 vt 审判，评论，裁判
+
+- judgement n 裁判，判决，判断力，看法，意见
+
+- judicial a 司法的，法庭的，审判的，明断的，公正的
+
+- prejudice n 偏见，成见，损害，侵害 v 抱持偏见
+
+- jury n 陪审团
+
+- manager n 经理，管理人
+
+- manage  v 经营，管理，处理，设法，对付，操纵，运用
+
+- minister n 管家，部长，大臣
+
+- administer v 管理
+
+- ministry n （政府）部，牧师
+
+- administrate vt 管理，支配
+
+- administration n 经营，管理
+
+- premier n 总理（在部长前面）a 首要的
+
+- president n 总统
+
+- **mire-词根: 奇迹**
+
+- admire vt 钦佩，赞赏，羡慕，夸奖，称赞
+
+- mirror n 镜子，反映，反射 v 反映，反射
+
+- mirage n 海市蜃楼
+
+- miracle n 奇迹
+
+- marvel n 奇迹
+
+- marvelous a 奇迹般的
+
+- **mar-词根: 海洋**
+
+- mamma n 妈妈，乳房
+
+- wave n 波浪
+
+- marine a 海的
+
+- submarine n 潜水艇 a 海底的
+
+- mammal n 哺乳动物
+
+- merge v 吞没，兼并，合并
+
+- submerge vt 潜水（具体含义）
+
+- emerge vt 浮现
+
+- emergency n (没想到却冒出来的事儿) 紧急情况，突发情况，非常时刻
+
+- immerge v 使沉浸在（抽象含义）
+
+- immerse v 使沉浸在（抽象含义）
+
+- admit vt 准许进入，准许加入，许可，承认
+
+- might aux.v 可以，也许（gh不发音）
+
+- permit n 许可证 （一直许可）
+
+- permission n 允许，同意
+
+- may aux.v
+
+- maybe adv 大概也许可能好像
+
+- mayor n 市长
+
+---
