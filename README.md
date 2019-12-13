@@ -1065,3 +1065,105 @@
 - apparent a 显然的，外观上的
 
 ---
+
+- **vent-词根: 走**
+
+- **ance-词根: 走**
+
+- advance n 前进，预付 vi 前进，进展 vt 促进，推进
+
+- ancient a 年代久远的，远古的
+
+- ancestor n 祖先
+
+- once n 从前，曾经
+
+- advanced a 先进的，高级的
+
+- advantage n 优势
+
+- disadvantage n
+
+- advent n (重要事件的来临)到来，来临
+
+- adventure n 冒险，冒险活动，奇遇 vt 冒险
+
+- venture n
+
+- convention n 大会，公约，惯例
+
+- conventional a 惯例的
+
+- event n (大)事件，事情
+
+- eventual a 终将发生的
+
+- eventually ad 终于，最后
+
+- invent v (钻研进去了) 发明，创造
+
+- invention n 发明
+
+- inventory n 详细目录 (list of what is found)
+
+- vocabulary n
+
+- directory n
+
+- dictionary n
+
+- prevent v 预防，阻止，防止
+
+- vent n 通风口
+
+- ventile a 允许空气流通的
+
+- ventilate vt 使通风
+
+- **ven-词根: 走(压缩版)**
+
+- avenue n 大道
+
+- revenue n 财政收入
+
+- income n 家庭收入
+
+- intervene v (in) 干涉，干预，插入，介入
+
+- convenience n 方便，便利
+
+- convenient a (to) 便利的，方便的
+
+- vein n 血管，静脉 vt 使……成脉络
+
+- **ance-词根: 前**
+
+- **ante-前缀: 前**
+
+- antique a 古式的，过时的 n 古董
+
+- **vert-词根: 旋转**  verse verge verd
+
+- adverse a 逆的，相反的，敌对的，不利的，有害的
+
+- advertise vt 公告，公布 vi 登广告
+
+- avert v 防止，避免，转移(注意力、目光)
+
+- convert v 兑换(钱)，改变(信仰) n 皈依者
+
+- invert v 倒置，倒转，颠倒
+
+- divert vt 使转向，使改道，转移，使娱乐
+
+- diversion n 转向，牵制，娱乐
+
+- **uni-前缀: 万**
+
+- universe n 宇宙，万物
+
+- university n 综合大学
+
+- universal a
+
+---
