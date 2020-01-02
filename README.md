@@ -1265,3 +1265,59 @@
 - device n 装备，装置，仪表，方法，设计
 
 ---
+
+- wise a 明智的
+
+- wit n 智力，才智，智慧
+
+- spirit n 精神
+
+- wish v/n
+
+- wisdom n 智慧，明智，名言，格言
+
+- survey v 俯瞰，社会调查(总览全局)
+
+- envy v/n 嫉妒
+
+- witness n 目击证人
+
+- watch v
+
+- **sur-前缀: 超过**
+
+- surplus n 过剩，剩余，余款，余额
+
+- interview v/n 接见，面试
+
+- voice n 声音，嗓音
+
+- **voc-词根: 声音，喊**
+
+- vocal a 声音的
+
+- vocable n 词
+
+- vocabulary n 词汇表
+
+- advocate n 辩护者，鼓吹者 v 鼓吹
+
+- evoke vt 唤起(抽象)，引起
+
+- provoke v 挑动，招惹
+
+- vacation n 召唤，天职，职业
+
+- wake v 醒来，唤醒(具象)
+
+- waken v
+
+- awake a 醒着的 vt 唤醒
+
+- vowel n 元音，元音字母 (声音之源，声音的出发点)
+
+- veto n/v 否决
+
+- vote n
+
+---
