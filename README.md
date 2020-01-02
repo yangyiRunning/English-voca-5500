@@ -1321,3 +1321,51 @@
 - vote n
 
 ---
+
+- **aer-词根: 空气**
+
+- aerial a 空中的，航空的 n 天线
+
+- air n 空气，(复数)神气  vt 通风，晾干
+
+- air-conditioning n 空调设备
+
+- aircraft n 飞机，飞船，飞行器
+
+- craft n 手艺，小船，轮船
+
+- crab n 螃蟹
+
+- creep v 爬行
+
+- airplane n 飞机
+
+- airport n 机场，空港
+
+- artery n 动脉，干线，要道
+
+- soar vi 高飞，翱翔，飞涨
+
+- condition n 条件
+
+- cripple n 跛子，残疾人 v 使跛
+
+- reptile n 爬行动物 a 爬行的，卑鄙的
+
+- **scribe-词根: 写**
+
+- describe v 描述，形容
+
+- description n 描写，形容
+
+- script n 手稿，手迹
+
+- manuscript n 手稿，原稿
+
+- prescribe v 指示，规定，处方，开药
+
+- prescription n 药方，处方
+
+- subscribe vi (to) 订阅，订购 v 签署，签字确认，在文件下面签，认购，认捐
+
+---
