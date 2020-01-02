@@ -1167,3 +1167,101 @@
 - universal a
 
 ---
+
+- verse n 诗词
+
+- prose n 散文
+
+- version n
+
+- versus (vs) prep 对……在诉讼，比赛等；与……相对
+
+- verge n 边缘  v 濒临
+
+- divorce n/v 离婚，分离
+
+- quick a
+
+- quiver v/n 颤抖，抖动
+
+- shiver v/n 战栗，发抖
+
+- versatile a 通用的，多才多艺的
+
+- adverb n 副词 a 副词的
+
+- verb n 动词
+
+- vertical a 垂直的 n 垂线
+
+- straight a 笔直的
+
+- diverse a 多种多样的，(from)不同的
+
+- reverse n 相反，背面  a 相反的  v 颠倒，倒转
+
+- conversely ad 相反地
+
+- conversaton n 转变，转换，信仰的改变
+
+- visit n 参观，视察
+
+- **vise-词根: 看**
+
+- envisage v 想象，设想，展望，正视
+
+- invisible a 看不见的，无形的
+
+- visible a
+
+- television n
+
+- vision n
+
+- visitor n
+
+- visual a 看到，看得见的，视觉的
+
+- oral a 嘴的
+
+- aural a 听觉的
+
+- manual a 手的
+
+- provision n 预备，供应，条款 (pl)给养
+
+- revise v 修订，装订
+
+- visa n/v 签证
+
+- supervise v 监督，管理
+
+- provide v 供应
+
+- **vid-词根: 看**
+
+- evidence n 明显，显著
+
+- evident a 明显的，明白的
+
+- provided conj 倘若，只要，假如
+
+- provident a 有远见的
+
+- prudent a 审慎的
+
+- video n
+
+- audio n
+
+- advice n 劝告，忠告，意见
+
+- advise vt 忠告，劝告，建议，通知，告知
+
+- advisable a
+
+- devise vt 设计，发明，图谋，作出，想出
+
+- device n 装备，装置，仪表，方法，设计
+
+---
