@@ -1369,3 +1369,85 @@
 - subscribe vi (to) 订阅，订购 v 签署，签字确认，在文件下面签，认购，认捐
 
 ---
+
+- cancer n 癌
+
+- grab v/n 抓住，抓紧
+
+- grasp v/n 抓住，抓紧，掌握，领会
+
+- grope v/n 摸索，探索
+
+- grip v/n 紧握，抓紧，掌握
+
+- clasp n 扣子，钩子，握手  v 扣住，钩住
+
+- crawl v/n 蠕动，缓慢的爬行，行进
+
+- claw n 爪子，脚爪
+
+- globe n 球体
+
+- global a
+
+- globalize v 全球化
+
+- glove n 手套
+
+- knob n 球形把手，旋钮
+
+- scrap n 碎片，废料 v 废弃，报废
+
+- scrape v 刮掉，擦过，勉强通过
+
+- affair n 事务，事情，个人的事
+
+- **fact-词根: 做**
+
+- **fect-词根: 做**
+
+- **fict-词根: 做**
+
+- fact n 事实，实际
+
+- factor n 因素，要素
+
+- factory n 工厂
+
+- perfect a
+
+- affect vt 影响，感动 n 情感，感情
+
+- affection n 喜爱，感情，爱慕之情
+
+- defect n 过失，缺点，不足  v 逃跑，背叛
+
+- effect n 结果，效果，影响
+
+- effective a
+
+- efficiency n 功效，效率
+
+- deficiency n 缺乏，不足
+
+- efficient a 有效的
+
+- deficient a 缺乏的，不足的
+
+- infect vt 传染，感染
+
+- infectious a 传染的，感染的
+
+- fiction n 虚构，小说，编造
+
+- office n
+
+- officer n
+
+- official n 官员，行政人员
+
+- sufficient a 足够的，充分的
+
+- suffice vi 足够，有能力 vt 使满足，足够…用，合格
+
+---
