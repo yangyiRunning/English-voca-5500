@@ -1451,3 +1451,41 @@
 - suffice vi 足够，有能力 vt 使满足，足够…用，合格
 
 ---
+
+- artificial a 手工的，做作的
+
+- proficiency n (in)精通，熟练
+
+- manufacture v 制造 n 制造业
+
+- facile a 容易做到的
+
+- difficulty n
+
+- difficult a
+
+- facility n 容易，简易，设备，设施
+
+- facilitate v 使容易
+
+- faculty n 才能，学院或系的全体教学人员
+
+- figure n 体形，轮廓，数字  v 推测，计算
+
+- feat n 功绩，伟业
+
+- feature n
+
+- feasible a 可行的，切实可行的
+
+- possible a 可能的，做的到的
+
+- possibility n 可能性，可能的事
+
+- fake n 假货，赝品  a 假的  v 伪造
+
+- make n 来源，制法
+
+- function n 功能，作用，(pl)职务，函数 v 起作用
+
+---
